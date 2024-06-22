@@ -9,3 +9,4 @@ C:\Users\VP\Desktop\BubelDinner\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\
 C:\Users\VP\Desktop\BubelDinner\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\refint\BuberDinner.Domain.dll
 C:\Users\VP\Desktop\BubelDinner\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.pdb
 C:\Users\VP\Desktop\BubelDinner\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\ref\BuberDinner.Domain.dll
+C:\Users\VP\Desktop\BubelDinner\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.sourcelink.json

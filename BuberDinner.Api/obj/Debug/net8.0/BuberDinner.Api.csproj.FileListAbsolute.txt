@@ -38,3 +38,4 @@ C:\Users\VP\Desktop\BubelDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Bub
 C:\Users\VP\Desktop\BubelDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Application.pdb
 C:\Users\VP\Desktop\BubelDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Infrastructure.pdb
 C:\Users\VP\Desktop\BubelDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Domain.pdb
+C:\Users\VP\Desktop\BubelDinner\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.sourcelink.json
